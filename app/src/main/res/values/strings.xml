@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Sing</string>
+    <string name="choose">Choose level </string>
+    <string name="basic">Basic</string>
+    <string name="med">Intermediate</string>
+    <string name="adv">Advanced</string>
+    <string name="b_mus_1">First song</string>
+    <string name="b_mus_2">Second song</string>
+    <string name="b_mus_3">Third song</string>
+    <string name="m_mus_1">First song</string>
+    <string name="m_mus_2">Second song</string>
+    <string name="m_mus_3">Third song</string>
+    <string name="a_mus_1">First song</string>
+    <string name="a_mus_2">Second song</string>
+    <string name="a_mus_3">Third song</string>
 </resources>
