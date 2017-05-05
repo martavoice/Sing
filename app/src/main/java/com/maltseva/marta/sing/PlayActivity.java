@@ -34,7 +34,14 @@ public class PlayActivity extends Activity implements View.OnClickListener{
 
     @Override
     public void onClick(View v) {
-
+       switch (v.getId()){
+           case R.id.play1:
+           case R.id.play2:
+           case R.id.play3:
+           case R.id.stop1:
+           case R.id.stop2:
+           case R.id.stop3:
+       }
     }
 
     private void setListeners() {
